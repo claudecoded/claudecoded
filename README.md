@@ -18,5 +18,5 @@
 <p align="center"> <img src="https://github-readme-streak-stats.vercel.app/?user=thedarklord112
 theme=vue-dark&hide_border=true" /> </p>
 
-<img src="https://githubusercontent.com" alt="GitHub Snake">
+<img src="https://github.com/thedarklord112">
 

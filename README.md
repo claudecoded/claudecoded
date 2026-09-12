@@ -18,4 +18,4 @@
 <p align="center"> <img src="https://github-readme-streak-stats.vercel.app/?user=thedarklord112
 theme=vue-dark&hide_border=true" /> </p>
 
-![Snake animation](https://github.com/thedarklord112/thedarklord112/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thedarklord112/thedarklord112/blog/output/github-contribution-grid-snake.svg)

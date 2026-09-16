@@ -1,4 +1,4 @@
-# Hello, I'm Davi Schulze 👋👋👋
+# Hi there 👋
 I'm a software designer with 12 years, app and games creator. Here, you will find developing codes, useful coding-life tools and other weird stuff.
 
 
@@ -10,6 +10,9 @@ I'm a software designer with 12 years, app and games creator. Here, you will fin
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=thedarklord112&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=thedarklord112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+🛠️My Skills
+<img width="2928" height="251" alt="image" src="https://github.com/user-attachments/assets/216bf258-1818-4786-b4cc-5850875b6be1" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thedarklord112&theme=radical&no-frame=false&no-bg=true&margin-w=4)

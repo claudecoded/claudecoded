@@ -2,10 +2,12 @@
 I'm Davi Schulze, an young software start-level developer fascinated with apple products. You can find on my profile things like:
     - YouTube AdBlocker
     - Minecraft Note Blocks Simulator
-    - MacOS and WindowsXP environment recreation
+    - WindowsXP environment recreation
     - Sound Syntethizer
     - ASCII art generator
-
+    - Customizable CLI
+    - Downloads Organizer
+    
 If you enjoy my profile, scroll down to learn more about me. Serious, it will worth your time.
 
 ## 🌐 Socials:
@@ -17,11 +19,15 @@ If you enjoy my profile, scroll down to learn more about me. Serious, it will wo
 ![](https://github-readme-stats.shion.dev/api?username=thedarklord112&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=thedarklord112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🛠️My Skills
+##🛠️My Skills
 <img width="2928" height="251" alt="image" src="https://github.com/user-attachments/assets/216bf258-1818-4786-b4cc-5850875b6be1" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thedarklord112&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+##🎉 Fun Fact:
+I recreated the macOS environment online!
+<img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/bab65ba8-2854-406f-b3fa-ac80f4326f41" />
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/DaviSchulze) 

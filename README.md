@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, <developers/> 👋
 I'm Davi Schulze, an young software start-level developer fascinated with apple products. You can find on my profile things like:
     - YouTube AdBlocker
     - Minecraft Note Blocks Simulator

@@ -1,6 +1,12 @@
 # Hi there 👋
-I'm a software designer with 12 years, app and games creator. Here, you will find developing codes, useful coding-life tools and other weird stuff.
+I'm Davi Schulze, an young software start-level developer fascinated with apple products. You can find on my profile things like:
+    - YouTube AdBlocker
+    - Minecraft Note Blocks Simulator
+    - MacOS and WindowsXP environment recreation
+    - Sound Syntethizer
+    - ASCII art generator
 
+If you enjoy my profile, scroll down to learn more about me. Serious, it will worth your time.
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/thesecondcoming112) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davilunaschulze@outlook.com) 
@@ -17,11 +23,5 @@ I'm a software designer with 12 years, app and games creator. Here, you will fin
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thedarklord112&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-#Let's Connect!
-E-mail: davilunaschulze@outlook.com
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/DaviSchulze) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

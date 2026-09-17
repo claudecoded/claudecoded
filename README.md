@@ -26,10 +26,8 @@ If you enjoy my profile, scroll down to learn more about me. Serious, it will wo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thedarklord112&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🎉 Fun Fact:
-
-I recreated the macOS environment online!
-<img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/bab65ba8-2854-406f-b3fa-ac80f4326f41" />
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/DaviSchulze) 
+
+## 🎉 Fun Fact:
+I'm creating an software/AI company called Isomorphic, that will offer developer-friendly tools, software enginering fro your OS and AI services. It will be avaible before the end of 2026. Wait me there!

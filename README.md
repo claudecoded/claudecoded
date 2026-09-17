@@ -19,7 +19,7 @@ If you enjoy my profile, scroll down to learn more about me. Serious, it will wo
 ![](https://github-readme-stats.shion.dev/api?username=thedarklord112&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=thedarklord112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##🛠️My Skills
+# 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=java,py,nodejs,gcp,codepen,apple,notion&theme=dark)](https://skillicons.dev)
 
 ## 🏆 GitHub Trophies

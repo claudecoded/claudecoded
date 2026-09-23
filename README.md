@@ -18,8 +18,10 @@ If you enjoy my profile, scroll down to learn more about me. Serious, it will wo
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=claudecoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img width="880" height="192" alt="bruh" src="https://github.com/user-attachments/assets/613dbcde-3b93-4de4-8a87-44ce9765b524" />
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=claudecoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
+</div>
 
 # 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=java,py,nodejs,gcp,codepen,apple,notion&theme=dark)](https://skillicons.dev)

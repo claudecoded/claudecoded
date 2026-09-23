@@ -20,7 +20,8 @@ If you enjoy my profile, scroll down to learn more about me. Serious, it will wo
 # 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=claudecoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake animation](https://github.com/<claudecoded>/<claudecoded>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/claudecoded/blob/gh-pages/github-contribution-grid-snake.svg)
+
 # 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=java,py,nodejs,gcp,codepen,apple,notion&theme=dark)](https://skillicons.dev)
 

@@ -18,7 +18,7 @@ If you enjoy my profile, scroll down to learn more about me. Serious, it will wo
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thedarklord112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=claudecoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://githubusercontent.com/thedarklord112/thedarklord112/output/github-snake.svg" alt="GitHub Snake" />
 
 # 🛠️ My Skills

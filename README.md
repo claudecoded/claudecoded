@@ -1,5 +1,5 @@
 # Hi there, <_devs_> 👋
-Day-life, cool, random and useful repositories for coders, almost weekly.
+Day-life, cool, random and useful repositories for coders, (almost) everyday a new one.
 If you enjoy my profile, scroll down to learn more about me. Serious, it will worth your time.
 
 

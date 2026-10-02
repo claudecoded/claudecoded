@@ -1,7 +1,18 @@
-# Hi there, <_devs_> 👋
+## Hi there, <_devs_> 👋
+
 Day-life, cool, random and useful repositories for coders, (almost) everyday a new one.
 If you enjoy my profile, scroll down to learn more about me. Serious, it will worth your time.
 
+
+## Quick links 👇
+
+👉 https://github.com/claudecoded/OS-hypersynchronicity
+👉 https://github.com/claudecoded/Github-Universe
+👉 https://github.com/claudecoded/deep-packet-morpher
+👉 https://github.com/claudecoded/audio-spectrogram-3d
+👉 https://github.com/claudecoded/i-am-a-robot-reCAPTCHA
+👉 https://github.com/claudecoded/AetherHPC-Engine
+👉 https://github.com/claudecoded/macOS-Online-Version
 
 ## 🌐 Socials
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/thesecondcoming112) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davilunaschulze@outlook.com) 

@@ -1,6 +1,6 @@
 ## Hi there, <_devs_> 👋
 
-Day-life, cool, random and useful repositories for coders, (almost) everyday a new one.
+The #1 show on the internet about great tech products and how they're built, at the same time giving the devs unique access to secrets, processes and useful life-hacks to boost up everyone's productivity.
 If you enjoy my profile, scroll down to learn more about me. Serious, it will worth your time.
 
 

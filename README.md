@@ -6,9 +6,9 @@
 
 📚 I'm learning: Tech Entrepreneurship on AMTECH
 
-🤔 I'm looking for: interesting things that solve people's problema
+🤔 I'm looking for: interesting things that solve people's problems
 
-😁 Pronoums: he/hum
+😁 Pronoums: he/him
 
 📬 Reach me by: e-mail 
 

@@ -1,16 +1,18 @@
 ## Hi there, <_devs_> 👋
 
-The #1 show on the internet about great tech products and how they're built, at the same time giving the devs unique access to secrets, processes and useful life-hacks to boost up everyone's productivity.
-If you enjoy my profile, scroll down to learn more about me. Serious, it will worth your time.
+Favorite phrase: It's no use think outside the box and keep the ideas inside it.
 
+If you enjoy my profile, scroll down to learn more about me. Serious, it will worth your time.
 
 ## Quick links 👇
 
-## 👉 https://github.com/claudecoded/OS-hypersynchronicity
-## 👉 https://github.com/claudecoded/Github-Universe
-## 👉 https://github.com/claudecoded/deep-packet-morpher
-## 👉 https://github.com/claudecoded/audio-spectrogram-3d
-## 👉 https://github.com/claudecoded/i-am-a-robot-reCAPTCHA
+👉 https://github.com/claudecoded/OS-hypersynchronicity
+
+👉 https://github.com/claudecoded/Github-Universe
+
+👉 https://github.com/claudecoded/deep-packet-morpher
+
+---
 
 ## 🌐 Socials
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/thesecondcoming112) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davilunaschulze@outlook.com) 

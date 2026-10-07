@@ -1,6 +1,22 @@
 ## Hi there, <_devs_> 👋
 
-Favorite phrase: It's no use think outside the box and keep the ideas inside it.
+🔡 Favorite phrase: It's no use think outside the box and keep the ideas inside it.
+
+🏠 I'm currently living on: Spazio Merlot, 392, aprt. 202
+
+📚 I'm learning: Tech Entrepreneurship on AMTECH
+
+🤔 I'm looking for: interesting things that solve people's problema
+
+😁 Pronoums: he/hum
+
+📬 Reach me by: e-mail 
+
+🧑🏽‍💻 I like: reading, create, and have entertainment 
+
+🗂️ What you will found here: useful developer and web tools, secrets and unlock abilities
+
+🩲 I sleep just with underpants: sometimes lol
 
 If you enjoy my profile, scroll down to learn more about me. Serious, it will worth your time.
 
@@ -41,7 +57,11 @@ If you enjoy my profile, scroll down to learn more about me. Serious, it will wo
 ## 👨🏻‍💻 IDE
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## 📄 Certifications
 
+- Google Cloud
+- Game Developing
+  
 ## 💾 Operational System
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) ![FreeBSD](https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white) 
   

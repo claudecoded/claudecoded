@@ -18,9 +18,7 @@
 
 If you enjoy my profile, scroll down to learn more about me. Serious, it will worth your time.
 
-## Quick links 👇
-
-👉 https://github.com/claudecoded/all-my-repos-package/tree/main
+## Quick link: 👉 https://github.com/claudecoded/all-my-repos-package/tree/main
 
 ---
 

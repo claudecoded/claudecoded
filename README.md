@@ -16,17 +16,11 @@
 
 🗂️ What you will found here: useful developer and web tools, secrets and unlock abilities
 
-🩲 I sleep just with underpants: sometimes lol
-
 If you enjoy my profile, scroll down to learn more about me. Serious, it will worth your time.
 
 ## Quick links 👇
 
-👉 https://github.com/claudecoded/OS-hypersynchronicity
-
-👉 https://github.com/claudecoded/Github-Universe
-
-👉 https://github.com/claudecoded/deep-packet-morpher
+👉 https://github.com/claudecoded/all-my-repos-package/tree/main
 
 ---
 
